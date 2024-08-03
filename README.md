@@ -1,1 +1,3 @@
-A repo for myself to save my code when training for ICPC and OLP. Feel free to reuse my code if you like it. Thanks for visiting.
+# 300 Kids Coding Challenges - C++ Version
+I created this repository to save my progress on solving algorithm problems on [CSES Problem Set](https://cses.fi/problemset/)
+You can have a look at my Python version here [300-kids-coding-challenges](https://github.com/bachtly/300-kids-coding-challenges)
